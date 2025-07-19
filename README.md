@@ -43,7 +43,7 @@ A React Native Expo app that allows users to write messages to their future selv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/skkuhg/moodmailer.git
+   git clone https://github.com/skkuhg/MoodMailer.git
    cd moodmailer
    ```
 
